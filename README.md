@@ -1,0 +1,2 @@
+# CMPS12B
+CMPS 12B (Winter 2019)
