@@ -1,0 +1,6 @@
+--- out2.txt	2019-02-23 15:08:48.626920700 -0800
++++ model-out2.txt	2019-02-23 15:08:44.408134300 -0800
+@@ -1 +1,2 @@
+-timeout: failed to run command ‘Queens’: No such file or directory
++Usage: Queens [-v] number
++Option: -v   verbose output, print all solutions
